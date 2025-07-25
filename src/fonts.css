@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'pally3';
+  src: url('./assets/Fonts/Pally-Bold.otf') ;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'pally2';
+  src: url('./assets/Fonts/Pally-Medium.otf') ;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'pally1';
+  src: url('./assets/Fonts/Pally-Regular.otf') ;
+  font-weight: 100;
+  /* color: #5fc9fa; */
+}
+
+@font-face {
+  font-family: 'banana';
+  src: url('./assets/Fonts/Banana Chips.ttf') ;
+}
